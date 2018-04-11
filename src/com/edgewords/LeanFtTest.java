@@ -12,7 +12,7 @@ import com.hp.lft.verifications.*;
 import unittesting.*;
 
 public class LeanFtTest extends UnitTestClassBase {
-
+    // instantiate browser
     Browser browser;
     public LeanFtTest() {
         //Change this constructor to private if you supply your own public constructor
