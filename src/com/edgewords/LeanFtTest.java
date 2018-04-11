@@ -13,7 +13,7 @@ import unittesting.*;
 
 public class LeanFtTest extends UnitTestClassBase {
 
-    Browser browser;  //our browser instance
+    Browser browser;
     public LeanFtTest() {
         //Change this constructor to private if you supply your own public constructor
     }
